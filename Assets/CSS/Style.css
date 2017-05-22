@@ -2,16 +2,18 @@
 header 
 {
 	font-size: 30px;
-	font-family: Arial, "helvetica Neue", Helvetica, sans-serif;
+	font-family: "Georgia", Times, Times New Roman, serif;
 	font-weight: bold;
 	background:#4aaaa5;
 	display: inline-block;
-	width:300px;
+	width:350px;
 	height: 50px;
 	color:#ffffff;
 	border-bottom: solid;
 	border-width: 5px;
 }
+
+
 
 h1
 {
@@ -29,8 +31,10 @@ img
 
 .list
 {
+	margin-top: 20px;
 	float:right;
 	list-style: none;
 	padding:10px;
-
+	text-decoration: none;
+	color:#ffffff;
 }
