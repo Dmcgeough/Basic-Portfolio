@@ -14,7 +14,6 @@ header
 }
 
 
-
 h1
 {
 	font-size:24px;
@@ -38,11 +37,31 @@ img
 	text-decoration: none;
 	color:#ffffff;
 }
+
 h2 
 {
 	color:#4aaaa5;
 }
-a {
+
+a 
+{
     color: grey;
     text-decoration: none;
+}
+
+.footer
+{
+
+	background-color:grey;
+	border-top:solid;
+	border-width:10px;
+	height:75px;
+	padding:20px;
+	border-color:#4aaaa5;
+}
+
+footer
+{
+	text-align:center;
+	font-size: 10px;
 }
