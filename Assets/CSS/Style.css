@@ -2,6 +2,8 @@
 .body
 {
 	z-index:1;
+	position:relative;
+
 }
 
 .box1
@@ -95,6 +97,8 @@ img
 h2 
 {
 	color:#4aaaa5;
+	border-bottom:solid;
+	border-color:#cccccc;
 }
 
 a 
@@ -112,6 +116,10 @@ a
 	height:75px;
 	padding:20px;
 	border-color:#4aaaa5;
+	position:absolute;
+	bottom:0;
+	width:100%;
+
 }
 
 footer
@@ -138,4 +146,12 @@ footer
 	font-weight:bold;
 	border-bottom:solid;
 	border-color:#cccccc;
+}
+
+.box3
+{
+	width:650px;
+	height:375px;
+	background:#ffffff;
+	margin-left:100px;
 }
