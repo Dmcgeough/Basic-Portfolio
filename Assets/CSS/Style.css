@@ -63,7 +63,7 @@ header
 	height: 50px;
 	color:#ffffff;
 	border-bottom: solid;
-	border-width: 5px;
+	border-width: 10px;
 	margin-left:100px;
 }
 
@@ -86,7 +86,7 @@ img
 
 .list
 {
-	margin-top: 20px;
+	margin-top: 0.1px;
 	float:right;
 	list-style: none;
 	padding:10px;
@@ -118,8 +118,7 @@ a
 	border-color:#4aaaa5;
 	position:absolute;
 	bottom:0;
-	width:100%;
-
+	width:100%;	
 }
 
 footer
@@ -156,3 +155,36 @@ footer
 	margin-left:100px;
 }
 
+.box4
+{
+	width:650px;
+	height:700px;
+	background:#ffffff;
+	margin-left:100px;	
+}
+
+#Hangman
+{
+	height:200px;
+	width:200px;
+}
+#RPG-Game
+{
+	height:200px;
+	width:200px;
+}
+#Trivia-Game
+{
+	height:200px;
+	width:200px;
+}
+#Rutgers-Info-Widget
+{
+	height:200px;
+	width:200px;
+}
+#Rock-Paper-Scissors
+{
+	height:200px;
+	width:200px;
+}
