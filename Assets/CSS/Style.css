@@ -189,20 +189,72 @@ footer
 	width:200px;
 }
 
-.package
-{
 
+.package1 .overlay1
+{
+	position:absolute;
+	top:261px;
+	width:260px;
 }
 
-.overlay
+.overlay1
 {
-	 height: 75px;
-    width: 250px;
-    background-color: #4aaaa5 ;
-    color: lightgrey;
-    /*line-height: 75px;*/
-    text-align: center;
-    bottom: -130px;
-    left: 20px;
-    position: relative;
+	color:#ffffff;
+	font-size: 24px;
+	background-color:#4aaaa5;
+	position:relative;
+	top:200px;
+	text-align:center;
+}
+
+.package2 .overlay2
+{
+	position:absolute;
+	top:261px;
+	width:250px;
+	margin-left:260px;
+}
+
+.overlay2
+{
+	color:#ffffff;
+	font-size: 24px;
+	background-color:#4aaaa5;
+	position:relative;
+	top:200px;
+	text-align:center;
+}
+
+.package3 .overlay3
+{
+	position:absolute;
+	top:501px;
+	width:260px;
+}
+.overlay3
+{
+	color:#ffffff;
+	font-size: 24px;
+	background-color:#4aaaa5;
+	position:relative;
+	top:200px;
+	text-align:center;
+}
+
+.package4 .overlay4
+{
+	position:absolute;
+	top:501px;
+	width:260px;
+	margin-left:260px;
+}
+
+.overlay4
+{
+	color:#ffffff;
+	font-size: 24px;
+	background-color:#4aaaa5;
+	position:relative;
+	top:200px;
+	text-align:center;
 }
