@@ -163,28 +163,46 @@ footer
 	margin-left:100px;	
 }
 
-#Hangman
+.Hangman
 {
 	height:200px;
 	width:200px;
 }
-#RPG-Game
+.RPG-Game
 {
 	height:200px;
 	width:250px;
 }
-#Trivia-Game
+.Trivia-Game
 {
 	height:200px;
 	width:200px;
 }
-#Rutgers-Info-Widget
+.Rutgers-Info-Widget
 {
 	height:200px;
 	width:250px;
 }
-#Rock-Paper-Scissors
+.Rock-Paper-Scissors
 {
 	height:200px;
 	width:200px;
+}
+
+.package
+{
+
+}
+
+.overlay
+{
+	 height: 75px;
+    width: 250px;
+    background-color: #4aaaa5 ;
+    color: lightgrey;
+    /*line-height: 75px;*/
+    text-align: center;
+    bottom: -130px;
+    left: 20px;
+    position: relative;
 }
