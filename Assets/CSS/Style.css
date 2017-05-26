@@ -245,11 +245,27 @@ footer
 {
 	position:absolute;
 	top:501px;
-	width:260px;
+	width:250px;
 	margin-left:260px;
 }
 
 .overlay4
+{
+	color:#ffffff;
+	font-size: 24px;
+	background-color:#4aaaa5;
+	position:relative;
+	top:200px;
+	text-align:center;
+}
+.package5 .overlay5
+{
+	position:absolute;
+	top:764px;
+	width:240px;
+	margin left:100px;
+}
+.overlay5
 {
 	color:#ffffff;
 	font-size: 24px;
