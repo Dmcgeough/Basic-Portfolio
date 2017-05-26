@@ -1,10 +1,4 @@
 
-.body
-{
-	z-index:1;
-	position:relative;
-
-}
 
 .box1
 {
@@ -190,87 +184,72 @@ footer
 }
 
 
-.package1 .overlay1
-{
-	position:absolute;
-	top:261px;
-	width:260px;
-}
-
 .overlay1
 {
+	position:absolute;
+	width:260px;
 	color:#ffffff;
 	font-size: 24px;
 	background-color:#4aaaa5;
-	position:relative;
-	top:200px;
 	text-align:center;
-}
-
-.package2 .overlay2
-{
-	position:absolute;
-	top:261px;
-	width:250px;
-	margin-left:260px;
+	opacity:0.75;
+	bottom:20px;
+	
 }
 
 .overlay2
 {
+	position:absolute;
+	width:250px;
 	color:#ffffff;
 	font-size: 24px;
 	background-color:#4aaaa5;
-	position:relative;
-	top:200px;
 	text-align:center;
+	opacity:0.75;
+	bottom:20px;
+	margin-left:20px;
+
 }
 
-.package3 .overlay3
-{
-	position:absolute;
-	top:501px;
-	width:260px;
-}
 .overlay3
 {
+	position:absolute;
+	width:260px;
 	color:#ffffff;
 	font-size: 24px;
 	background-color:#4aaaa5;
-	position:relative;
-	top:200px;
 	text-align:center;
-}
-
-.package4 .overlay4
-{
-	position:absolute;
-	top:501px;
-	width:250px;
-	margin-left:260px;
+	opacity:0.75;
+	bottom:20px;
 }
 
 .overlay4
 {
+	position:absolute;
+	width:250px;
 	color:#ffffff;
 	font-size: 24px;
 	background-color:#4aaaa5;
-	position:relative;
-	top:200px;
 	text-align:center;
-}
-.package5 .overlay5
-{
-	position:absolute;
-	top:764px;
-	width:240px;
-	margin left:100px;
+	opacity:0.75;
+	bottom:20px;
+	margin-left:20px;
 }
 .overlay5
 {
+	position:absolute;
+	width:240px;
 	color:#ffffff;
 	font-size: 24px;
 	background-color:#4aaaa5;
-	position:relative;
-	top:200px;
 	text-align:center;
+	opacity:0.75;
+	bottom:20px;
+}
+
+.package1, .package2, .package3, .package4, .package5
+{
+	position:relative;
+	display: inline-block;
+	margin:15px;
 }
