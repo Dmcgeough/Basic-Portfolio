@@ -1,2 +1,4 @@
 # Basic-Portfolio
 Portfolio to begin display.
+Before we could learn how to use bootstrap effectively we first had to learn the arguably much harder way first. Using Vanilla HTML and standard CSS we began to craft a professional looking website. So the aim to this was twofold. We were creating an online presence to introduce and showcase our skills to potential employers and we were getting our hands dirty with making a fully functional website from scratch. We also got our first taste of Javascript. We created input forms for the first time, as well as a navbar with functional buttons and we embedded images. This was the first time we had used the big 3 languages of web development in concert with one another to create a chohesive and fleshed out website.
+Tools used: HTML5, CSS3, Vanilla Javascript.
